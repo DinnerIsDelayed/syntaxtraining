@@ -1,0 +1,15 @@
+C:\Code\Command Practice\bin\Release\net7.0\Command Practice.exe
+C:\Code\Command Practice\bin\Release\net7.0\Command Practice.deps.json
+C:\Code\Command Practice\bin\Release\net7.0\Command Practice.runtimeconfig.json
+C:\Code\Command Practice\bin\Release\net7.0\Command Practice.dll
+C:\Code\Command Practice\bin\Release\net7.0\Command Practice.pdb
+C:\Code\Command Practice\obj\Release\net7.0\Command Practice.csproj.AssemblyReference.cache
+C:\Code\Command Practice\obj\Release\net7.0\Command Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Command Practice\obj\Release\net7.0\Command Practice.AssemblyInfoInputs.cache
+C:\Code\Command Practice\obj\Release\net7.0\Command Practice.AssemblyInfo.cs
+C:\Code\Command Practice\obj\Release\net7.0\Command Practice.csproj.CoreCompileInputs.cache
+C:\Code\Command Practice\obj\Release\net7.0\Command Practice.dll
+C:\Code\Command Practice\obj\Release\net7.0\refint\Command Practice.dll
+C:\Code\Command Practice\obj\Release\net7.0\Command Practice.pdb
+C:\Code\Command Practice\obj\Release\net7.0\Command Practice.genruntimeconfig.cache
+C:\Code\Command Practice\obj\Release\net7.0\ref\Command Practice.dll
