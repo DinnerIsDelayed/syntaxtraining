@@ -32,13 +32,3 @@ Follow these steps to get started with SyntaxTraining:
 1. Choose your desired topic from the available options.
 2. Follow the interactive tutorials to practice your syntax skills.
 3. Save your progress to continue your training later.
-
-## Contributing
-
-We welcome contributions from the community! If you have ideas for new topics, features, or improvements, please open an issue or submit a pull request. We appreciate your help in making SyntaxTraining even better.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Happy coding and training with SyntaxTraining!
