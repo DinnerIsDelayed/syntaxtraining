@@ -16,6 +16,8 @@ SyntaxTraining is my go-to application for honing your syntax skills across a va
 - **Save Your Progress**: This app allows you to save your training progress. When you return to SyntaxTraining, you can seamlessly pick up where you left off. Say goodbye to starting from scratch every time you open the app.
 
 - **Version 1.0**: This is the initial release of SyntaxTraining. I'm committed to continuously improving and expanding features to provide you (ME lol) with the best training experience possible.
+- **Version 2.0** COMING SOON WITH REFACTORED CODE AND MAYBE ASP BACK END? [Yes I know Version 1 is a little rough. Lets spice it up a bit :)]
+
 
 ## Getting Started
 
